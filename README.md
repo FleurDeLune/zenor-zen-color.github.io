@@ -1,5 +1,4 @@
 <p align="center">
-  #
   **ZenOr**
 </p>
 ## Radiant Zen Game
