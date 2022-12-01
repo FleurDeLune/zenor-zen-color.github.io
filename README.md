@@ -1,6 +1,4 @@
-<p align="center">
-  **ZenOr**
-</p>
+#**ZenOr**
 ## Radiant Zen Game
 
 ZenOr is a relaxing color-based puzzle game.
