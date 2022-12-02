@@ -10,7 +10,7 @@ ZenOr is a relaxing color-based puzzle game.
 <br>3 free games per day to help you relax.
 
 <p>
-<img width="300" alt="IMG_3936" src="https://user-images.githubusercontent.com/112459674/205353274-62013fdf-7e20-4110-a6bd-f157ac8067e8.jpg">
-<img width="300" alt="IMG_3935" src="https://user-images.githubusercontent.com/112459674/205353146-d388ff58-89e7-4fe7-a94d-8a0ff8ab4cbc.jpg">
+<img width="300" alt="IMG_3936" src="https://user-images.githubusercontent.com/112459674/205353767-9315ea0f-6467-4da1-a29b-4fad2055fcfd.jpg">
+<img width="300" alt="IMG_3935" src="https://user-images.githubusercontent.com/112459674/205353828-a68b483a-beb2-4493-a250-368d84ebeed4.jpg">
 </p>
 
